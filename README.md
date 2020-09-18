@@ -1,10 +1,3 @@
-# final-project
-MERN Final Project
-
-## login
-booklover@gmail.com
-password
-
 # The Borrowers
 ## Description 
 Have extra books lying around and want some new material? Our site allows you to post your books and borrow from your local neighbors! You post your books and are able to search through books posted in your area. You then create a social contract with the other user swapping books. Once communication begins you’re ready to enjoy your new books after pick up!
@@ -66,3 +59,8 @@ Not currently taking any additional contributions at this time.
 
 ## Tests
 There is no test needed for this project. 
+
+
+## login
+username: booklover@gmail.com
+password: password
